@@ -4,7 +4,22 @@
 
 --------------------------------------------------------------------------------------------
 
-- Introduzione
+##### PARTE 1 
+	
+
+
+Il progetto richiede di analizzare il gene ACE2. I dati del gene si trovano alla pagina https://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000130234;r=X:15561033-15602148 
+
+1. Leggere il file in un DataFrame, rimuovendo le righe che non si riferiscono al gene (il file contiene anche un miRNA).
+2. Calcolare il numero di esoni per ogni trascritto
+3. Calcolare la lunghezza di ogni trascritto
+4. Le proteine associate a tali trascritti
+5. Determinare le regioni genomiche (esone o porzione di esone) che sono presenti in tutti i trascritti. Ogni regione genomica è identificata da una posizione di inizio e una di fine.
+
+Il file .gtf è contenuto nel folder data 
+
+
+##### PARTE 2 
 
 Il lavoro collaborativo è volto a sviluppare un simulatore stocastico in grado di modellare la dinamica dell'infezione da Covid19, a valutare l'efficacia delle misure cautelative adottate e ad effettuare una previsione della dinamica.
 
