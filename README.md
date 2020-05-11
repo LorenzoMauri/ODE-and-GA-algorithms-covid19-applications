@@ -21,7 +21,7 @@ Il file .gtf è contenuto nel folder data
 
 ##### PARTE 2 
 
-Il lavoro collaborativo è volto a sviluppare un simulatore stocastico in grado di modellare la dinamica dell'infezione da Covid19, a valutare l'efficacia delle misure cautelative adottate e ad effettuare una previsione della dinamica.
+Il lavoro collaborativo è volto a sviluppare un simulatore stocastico in grado di modellare la dinamica dell'infezione da Covid19 e di effettuare previsioni.
 
 - Premesse 
 
@@ -29,10 +29,7 @@ Siccome non vi è evidenza scientifica alcuna circa lo sviluppo dell'immunità, 
 
 - Svolgimento 
 
-Stima dei parametri iniziali della dinamica tramite algoritmo ILS (iterated Local Search).
-
-Implementazione del sistema di equazioni differenziali per il calcolo delle variazioni degli stati lungo l'orizzonte temporale da `t=0` fino a `t=t+x`  dove x è intero positivo 
-
+Utilizzo dell'algoritmo genetico (GA)
 
 - Sorgente dati 
 
