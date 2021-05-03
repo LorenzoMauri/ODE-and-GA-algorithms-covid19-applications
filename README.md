@@ -36,7 +36,7 @@ https://www.epicentro.iss.it/coronavirus/pdf/sars-cov-2-traduzione-RRA-ECDC-12-m
 
 
 ## Contributors 
-[![GitHub](fratalar) GitHub](https://github.com/fratalar/)
-[![GitHub](LorenzoMauri) GitHub](https://github.com/LorenzoMauri)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/fratalar/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LorenzoMauri)
 Samuele Manessi
 
