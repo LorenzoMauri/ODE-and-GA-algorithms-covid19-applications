@@ -1,12 +1,7 @@
 # Progetto-Bioinformatica
 
-##### A CURA DI Lorenzo Mauri, Samuele Manessi, Francesco Talarico
 
---------------------------------------------------------------------------------------------
-
-##### PARTE 1 
-	
-
+###à# PARTE 1
 
 Il progetto richiede di analizzare il gene ACE2. I dati del gene si trovano alla pagina https://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000130234;r=X:15561033-15602148 
 
@@ -19,12 +14,11 @@ Il progetto richiede di analizzare il gene ACE2. I dati del gene si trovano alla
 Il file .gtf è contenuto nel folder data 
 
 
-##### PARTE 2 
+#### PARTE 2 
 
 Il lavoro collaborativo è volto a sviluppare un simulatore stocastico in grado di modellare la dinamica dell'infezione da Covid19 e di effettuare previsioni.
 
-- Premesse 
-
+## Assunzioni
 Siccome non vi è evidenza scientifica alcuna circa lo sviluppo dell'immunità, il numero iniziale è stato scelto arbitrariamente, ipotizzando che il 95% degli individui guariti sviluppi anticorpi della malattia.
 
 - Svolgimento 
@@ -41,4 +35,8 @@ https://www.epicentro.iss.it/coronavirus/pdf/sars-cov-2-traduzione-RRA-ECDC-12-m
 << In Italia, il 44% dei casi confermati in laboratorio è risultato asintomatico. In Giappone, lo 0,06% dei casi segnalati sono risultati asintomatici. Queste proporzioni basate su casi notificati a livello nazionale riflettono probabilmente le diverse strategie di utilizzo dei test di laboratorio piuttosto che stime realistiche di infezioni asintomatiche >>
 
 
+## Contributors 
+[![GitHub](fratalar) GitHub](https://github.com/fratalar/)
+[![GitHub](LorenzoMauri) GitHub](https://github.com/LorenzoMauri)
+Samuele Manessi
 
