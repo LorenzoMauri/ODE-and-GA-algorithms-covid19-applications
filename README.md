@@ -1,7 +1,7 @@
 # Progetto-Bioinformatica
 
 
-###à# PARTE 1
+#### PARTE 1
 
 Il progetto richiede di analizzare il gene ACE2. I dati del gene si trovano alla pagina https://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000130234;r=X:15561033-15602148 
 
@@ -36,7 +36,9 @@ https://www.epicentro.iss.it/coronavirus/pdf/sars-cov-2-traduzione-RRA-ECDC-12-m
 
 
 ## Contributors 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/fratalar/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LorenzoMauri)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/fratalar/) Francesco Talarico
+
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LorenzoMauri) Lorenzo Mauri
+
 Samuele Manessi
 
