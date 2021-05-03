@@ -21,14 +21,16 @@ Il lavoro collaborativo è volto a sviluppare un simulatore stocastico in grado 
 ## Assunzioni
 Siccome non vi è evidenza scientifica alcuna circa lo sviluppo dell'immunità, il numero iniziale è stato scelto arbitrariamente, ipotizzando che il 95% degli individui guariti sviluppi anticorpi della malattia.
 
-- Svolgimento 
+## Svolgimento 
 
 Utilizzo dell'algoritmo genetico (GA)
 
-- Sorgente dati 
+## Sorgente dati 
 
 https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv
 
+
+## Others 
 stima dei casi asintomatici rilevati
 https://www.epicentro.iss.it/coronavirus/pdf/sars-cov-2-traduzione-RRA-ECDC-12-marzo-2020.pdf
 
